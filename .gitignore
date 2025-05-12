@@ -36,3 +36,19 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Logs
+*.log
+
+# Test output
+/test-output/
+surefire-reports/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Backup and swap files
+*.bak
+*.swp
